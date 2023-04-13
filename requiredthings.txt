@@ -1,4 +1,0 @@
-python is being actually stupid so uh
-idk what to put here
-
-you need requests and bs4
